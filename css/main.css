@@ -455,3 +455,40 @@
       page-break-after: avoid;
     }
   }
+/* ==========================================================================
+   About Page
+   ========================================================================== */
+
+   .mission-content {
+    display:
+    justify-content: space-between;
+    align-items: 
+}
+
+.mission-content p {
+    width: 
+}
+
+.contact-section, .content-wrapper h2 {
+    width:
+}
+
+.contact-content {
+    display:
+    justify-content:
+    align-items:
+}
+  /* ==========================================================================
+   FAQ Page
+   ========================================================================== */
+   .faq .content-wrapper {
+    justify-content: space-between;
+}
+
+.faq-content {
+    flex-basis: 40%;
+}
+
+.faq h2 {
+    width: 100%;
+}
