@@ -93,14 +93,64 @@
     padding: 0.2em 0;
   }
   
-  /* ==========================================================================
-     Author's custom styles
-     ========================================================================== */
-  
   .content-wrapper {
     width: 90%;
     margin: 50px 0;
   }
+
+  /* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+/* General Styles */
+
+html {
+    font-size: 1em;
+	
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+}
+
+ul, 
+ol {
+
+}
+
+a {
+    color: #e2e3ed;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h3, 
+h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+	
+}
+
+img {
+
+}
+
+figure {
+
+}
+
+address {
+
+}
+
+.content-wrapper {
+
+}
   
   /* -------------------- Base Header - Footer Styles -------------------- */
   
