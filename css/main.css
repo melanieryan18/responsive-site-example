@@ -136,12 +136,12 @@ p {
 	
 }
 
-img {
-
+img { 
+	width: 100%;
 }
 
 figure {
-
+        margin: 0;
 }
 
 address {
@@ -237,6 +237,13 @@ address {
     flex-flow: row wrap;
   }
   
+  header figure {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
   /* Aside */
   
   aside {
